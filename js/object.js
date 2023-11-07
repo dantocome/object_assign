@@ -9,8 +9,6 @@ let programming = {
 };
 
 // Q1
-// languages.push("Go");
-// console.log(programming);
 
 // Q2
 //    if("difficulty" in programming){
@@ -28,9 +26,9 @@ let programming = {
     // console.log(programming);
 
 //  Q5
-//    for(let objkey in languages){
-//     console.log(languages[objkey]);
-//    }
+    // console.log(programming.languages[0]);
+    // console.log(programming.languages[1]);
+    // console.log(programming.languages[2]);
 
 //   Q6
     // for(let objKey in programming){
@@ -39,8 +37,6 @@ let programming = {
     // }
 
     // Q7
-    // for(let object.values in programming){
-    //    console.log(programming[object.values]); 
+    // for(let objectvalues in programming){
+    //    console.log(programming[objectvalues]); 
     // }
-
-    // NB: NOT yet done...
